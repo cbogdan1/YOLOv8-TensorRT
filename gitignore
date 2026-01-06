@@ -1,0 +1,23 @@
+# Ignora folderele unde se compileaza (unde apar fisierele uriase)
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+.vs/
+
+# Ignora explicit fisierele mari care iti dau eroare
+*.dll
+*.lib
+*.pdb
+*.exp
+*.ilk
+*.exe
+*.so
+*.a
+
+# Fisiere specifice Python
+__pycache__/
+*.pyc

@@ -1,0 +1,3 @@
+/home/mmp/Campea_Bogdan/build/CMakeFiles/yolo_app.dir
+/home/mmp/Campea_Bogdan/build/CMakeFiles/edit_cache.dir
+/home/mmp/Campea_Bogdan/build/CMakeFiles/rebuild_cache.dir

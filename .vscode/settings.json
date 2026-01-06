@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cwchar": "cpp",
+        "xstring": "cpp",
+        "memory": "cpp"
+    }
+}
